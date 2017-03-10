@@ -1,0 +1,4 @@
+<resources>
+    <style name="QueryTheme" parent="@style/Theme.AppCompat"></style>
+    <string name="app_name">Mis Lugares</string>
+</resources>
